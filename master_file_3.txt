@@ -1,2 +1,3 @@
 third file
 text 3
+modified
